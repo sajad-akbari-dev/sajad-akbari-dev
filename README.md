@@ -5,14 +5,14 @@
 <h3 align="center">Web Developer | Cloud Engineer in Training | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/s4084267">
+  <a href="https://github.com/sajad-akbari-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Passionate+about+Cloud+and+Web+Development;Building+Skills+One+Project+at+a+Time;Turning+Ideas+into+Reality+with+Code;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s4084267&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/s4084267?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=sajad-akbari-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 <div align="center">
@@ -93,15 +93,15 @@ const sajad = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sand-alpha-71.vercel.app/api?username=s4084267&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Sajad's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=s4084267&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+  <img width="49%" src="https://github-readme-stats-sand-alpha-71.vercel.app/api?username=sajad-akbari-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Sajad's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajad-akbari-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
 </div>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sand-alpha-71.vercel.app/api/top-langs/?username=s4084267&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=s4084267&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats-sand-alpha-71.vercel.app/api/top-langs/?username=sajad-akbari-dev&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajad-akbari-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 <!-- <div align="center">
-  <img src="https://github-readme-stats-sand-alpha-71.vercel.app/api?username=s4084267&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=800"alt="Sajad's GitHub Stats" />
+  <img src="https://github-readme-stats-sand-alpha-71.vercel.app/api?username=sajad-akbari-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=800"alt="Sajad's GitHub Stats" />
 </div> -->
 <br>
 <div align="center">
@@ -163,7 +163,7 @@ const sajad = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajad-ali-akbari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjd808@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4084267)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajad-akbari-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajad-portfolio-gamma.vercel.app/)
 
 </div>
